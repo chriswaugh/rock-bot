@@ -42,12 +42,14 @@ More info: http://beatthebots.apphb.com/Api
 
 ## Getting started
 
-This repository contains the very very bare minimum you need to get a bot running on [heroku](https://www.heroku.com). You can clone this repo and deploy it to heroku with no real configuration required. Case in point: https://always-rock.herokuapp.com
+This repository contains the very very bare minimum you need to get a bot running on [heroku](https://www.heroku.com). You can clone this repo and deploy it to heroku with no real configuration required. Case in point: https://always-rock.herokuapp.com/move
 
 Note that you're not limited to heroku, nor even using node - as long as you have a publically accessible API that meets the requirements above that's all that matters.
 
-### Training
+## Training
 
 You can fight your bot against the house robots here! :)
 
 http://beatthebots.apphb.com/Play/
+
+Note - the always-ROCK strategy won't do you well here! :)
