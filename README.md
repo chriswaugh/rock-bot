@@ -24,4 +24,4 @@ http://beatthebots.apphb.com/Api
 
 `POST /start` will be called at the very beginning of a battle, `GET /move` will be called at the start of each game, and `POST /move` will be called at the end of every game.
 
-You win a game, you get one point. If a game ends in a draw the point rolls over to the next game. First to 1000 points, wins.
+You win a game, you get one point. If a game ends in a draw the point rolls over to the next game. First bot to 1000 points wins the battle.
